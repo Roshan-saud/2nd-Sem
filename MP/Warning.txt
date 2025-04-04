@@ -1,1 +1,2 @@
-Please ensure that the 8085 code is working properly.
+Please verify that the 8085 code is functioning correctly.
+Note: I have already reviewed the entire program with ChatGPT, but it would be prudent for you to double-check as well.
